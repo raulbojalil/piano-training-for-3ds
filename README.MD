@@ -14,6 +14,6 @@ If the wrong key is pressed it will light red. Use the bottom buttons to change 
 How to compile
 ------------
 
-http://3dbrew.org/wiki/Setting_up_Development_Environment. To run on actual hardware you will need one of the available methods to run homebrew like Ninjhax or Gateway 3DS.
+http://3dbrew.org/wiki/Setting_up_Development_Environment. You will also need Python 2.7 in order to generate icon and banner files for .cia and .3ds outputs (3DS Banner Maker). To run on actual hardware you will need one of the available methods to run homebrew like Ninjhax or Gateway 3DS. 
 
 Have fun!
