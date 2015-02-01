@@ -1,7 +1,7 @@
 BasicInfo:
-  Title                   : "CtrApp"
+  Title                   : "Piano Training for 3DS"
   CompanyCode             : "00"
-  ProductCode             : "CTR-P-CTAP"
+  ProductCode             : "CTR-P-PTRN"
   ContentType             : Application # Application / SystemUpdate / Manual / Child / Trial
   Logo                    : Nintendo # Nintendo / Licensed / Distributed / iQue / iQueForSystem
 
@@ -11,7 +11,7 @@ Rom:
 
 
 TitleInfo:
-  UniqueId                : 0x1349 # This was/is the first real homebrew app. I hope this TID range is not used by any retail game/app.
+  UniqueId                : 0xf1000 # This was/is the first real homebrew app. I hope this TID range is not used by any retail game/app.
   Category                : Application # Application / SystemApplication / Applet / Firmware / Base / DlpChild / Demo / Contents / SystemContents / SharedContents / AddOnContents / Patch / AutoUpdateContents
   
 CardInfo:
